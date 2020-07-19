@@ -1,4 +1,4 @@
-due to the reason that github can not set the TOP style, so i avoid to use number title such as 1.2, 1.3. it might make the note a little mess. 
+Due to the reason that github can not set the TOP style, so i avoid to use number title such as 1.2, 1.3, lacking of number might make the note a little mess. 
 
 * [the 7 stages of the development of computer and network](#the-7-stages-of-the-development-of-computer-and-network)
 
