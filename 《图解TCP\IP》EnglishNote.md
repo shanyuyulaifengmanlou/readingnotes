@@ -16,7 +16,7 @@ content
 
 content
 
-#### 1\.2 content test
+#### 1.2 content test
 
 
 
